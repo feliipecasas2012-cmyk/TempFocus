@@ -1,0 +1,5 @@
+{
+  "name": "TempFocus",
+  "description": "Um temporizador de foco minimalista de alto contraste, projetado para trabalho profundo e sessões Pomodoro. Possui intervalos personalizáveis, estética estilo LED e operação livre de distrações.",
+  "requestFramePermissions": []
+}
